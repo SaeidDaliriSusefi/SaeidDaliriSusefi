@@ -1,6 +1,6 @@
 # Saeid Daliri Susefi
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SaeidDaliri/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Saeid-Daliri/)
 
 
 With a Master's degree in Civil Engineering for Risk Mitigation from Politecnico di Milano, I specialize in remote sensing (optical, radar, and altimetry), GIS, and hydrological risk assessment. My work focuses on flood mapping, flood hazard modeling, and applying machine learning to geospatial analysis, aiming to develop innovative tools for environmental and disaster risk management.
