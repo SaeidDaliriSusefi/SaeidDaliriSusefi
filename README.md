@@ -7,6 +7,7 @@ With a Master's degree in Civil Engineering for Risk Mitigation from Politecnico
 
 -----------------------------------------------------------------------------------------------------------------
 
+
 ### 🖥️ Technical Skills
 - Remote Sensing: Optical, SAR (Synthetic Aperture Radar), and Altimetry data processing
 
@@ -19,4 +20,5 @@ With a Master's degree in Civil Engineering for Risk Mitigation from Politecnico
 
 
 -----------------------------------------------------------------------------------------------------------------
+
 ### 🛰️ Work Experiences 
