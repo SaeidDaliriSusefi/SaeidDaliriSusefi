@@ -21,4 +21,4 @@ With a Master's degree in Civil Engineering for Risk Mitigation from Politecnico
 
 -----------------------------------------------------------------------------------------------------------------
 
-### 🛰️ Work Experiences 
+### 🛰️ Work Experience
