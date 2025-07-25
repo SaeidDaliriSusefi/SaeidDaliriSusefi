@@ -16,3 +16,7 @@ With a Master's degree in Civil Engineering for Risk Mitigation from Politecnico
 
 - Machine Learning: Supervised and unsupervised classification, model development for geospatial data
 
+
+
+-----------------------------------------------------------------------------------------------------------------
+### 🛰️ Work Experiences 
