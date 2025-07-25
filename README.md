@@ -1,7 +1,6 @@
 # Saeid Daliri Susefi
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SaeidDaliriSusefi&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/SaeidDaliriSusefi)
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=SaeidDaliriSusefi.SaeidDaliriSusefi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saeid-daliri-264284265)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saeid.daliri@mail.polimi.it)
 
